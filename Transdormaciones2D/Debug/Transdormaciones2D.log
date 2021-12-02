@@ -1,0 +1,11 @@
+﻿  Ejemplo.cpp
+C:\Users\luisi\source\repos\Transdormaciones2D\Transdormaciones2D\Ejemplo.cpp(32,37): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\luisi\source\repos\Transdormaciones2D\Transdormaciones2D\Ejemplo.cpp(32,15): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\luisi\source\repos\Transdormaciones2D\Transdormaciones2D\Ejemplo.cpp(37,22): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\luisi\source\repos\Transdormaciones2D\Transdormaciones2D\Ejemplo.cpp(38,22): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\luisi\source\repos\Transdormaciones2D\Transdormaciones2D\Ejemplo.cpp(50,22): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\luisi\source\repos\Transdormaciones2D\Transdormaciones2D\Ejemplo.cpp(51,22): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\luisi\source\repos\Transdormaciones2D\Transdormaciones2D\Ejemplo.cpp(58,26): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\luisi\source\repos\Transdormaciones2D\Transdormaciones2D\Ejemplo.cpp(63,22): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+C:\Users\luisi\source\repos\Transdormaciones2D\Transdormaciones2D\Ejemplo.cpp(64,22): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+  Transdormaciones2D.vcxproj -> C:\Users\luisi\source\repos\Transdormaciones2D\Debug\Transdormaciones2D.exe
